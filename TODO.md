@@ -1,0 +1,17 @@
+# DDC Prime — Delivery Outcomes
+
+- **Landing page premium em Dark Mode para DDC Prime** — A página deve ser uma landing page premium, no estilo “Dark Mode”, para o produto DDC Prime, com comunicação em inglês, extremamente fria, quantitativa e corporativa (estilo Hedge Fund / Private Banking), sem gatilhos mentais baratos, sem cores vibrantes como vermelho ou verde neon e sem promessas de riqueza rápida.
+
+- **Brand book visual aplicado** — O site deve usar fundo escuro profundo (#111111 ou #1A1A1A), texto principal branco ou cinza claro (#EAEAEA), destaque e botões em dourado premium sutil (#D4AF37 ou #C5A059), tipografia sem serifa limpa e moderna (Inter, Helvetica Neue ou Montserrat) e layout minimalista com muito espaço negativo.
+
+- **Hero Section com copy e CTA exatos** — O topo deve ser centralizado, exibir o logotipo DDC Prime em dourado e usar a headline “Stop Trading Blind. Trade with Quantitative Precision.”, o sub-headline “Institutional-grade Long/Short setups, strict risk management, and real-time market structure shifts delivered directly to your Telegram.” e o CTA dourado “ACCESS DDC PRIME NOW”.
+
+- **The Problem com copy exato** — A seção deve ser alinhada à esquerda, com fonte fina e elegante, e conter “The market does not forgive emotion.”, “90% of retail traders are consistently liquidated because they trade based on hype, news, and guesswork. If you don't have a strict, algorithmic approach to Take-Profits and Stop-Losses, your portfolio is simply providing liquidity for institutional whales.” e “It’s time to change sides.”.
+
+- **The Solution com copy, grid e checkmarks** — A seção deve ter headline “Pure Data. Zero Hype.”, body “DDC Prime is an exclusive intelligence hub built for high-performance traders. We filter out the noise and deliver exact market vectors.” e os bullets “Algorithmic Setups: Exact Entry, TP1, TP2, and SL levels.”, “Institutional Risk Ratio: We only execute when the math makes sense (Minimum 1:3 RR).” e “Real-Time Alpha: Instant alerts on structural market shifts before the retail crowd notices.”, apresentados em estrutura de 3 colunas ou lista com ícones/checkmarks dourados minimalistas.
+
+- **Pricing Table com os três planos** — A página deve ter a seção “Join the Prime Network.” com o sub-headline “Gain immediate access to the private Telegram feed and our proprietary setups. Spots are strictly monitored to ensure execution quality.” e três cartões: “MONTHLY PLAN” por “$129 / month” com botão “GET STARTED”; “ANNUAL ELITE PLAN” no centro, maior, com borda dourada, tag “BEST VALUE”, preço “$799 / year”, destaque “Save $749 (Nearly 6 Months FREE)” e botão sólido “SECURE ANNUAL ACCESS”; e “SEMESTRAL PLAN” por “$499 / 6 months”, destaque “Save $275 (2 Months FREE)” e botão “GET STARTED”.
+
+- **Footer & Authority com copy e links** — O rodapé deve ter fundo totalmente preto, texto pequeno centralizado em cinza escuro, a citação “We don't try to predict the future. We react to quantitative data with absolute discipline. In this market, capital preservation is the ultimate alpha.” — DDC Prime Desk, e links “Terms of Service”, “Privacy Policy” e “Powered by Hubla”.
+
+- **Responsividade e tráfego vertical** — A página deve ser totalmente responsiva para dispositivos móveis, considerando que 95% do tráfego virá de anúncios no Instagram/Meta em formato vertical; no celular, o espaçamento entre a headline e os botões deve manter o CTA visível na primeira rolagem (above the fold).
